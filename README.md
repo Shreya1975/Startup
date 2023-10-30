@@ -1,2 +1,2 @@
-# Startup
+# Medical
 hacktoberfest
